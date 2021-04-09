@@ -37,7 +37,9 @@ workflows:
           ls -a
           npm ci # equivalent of npm install for CI systems. Requires package-lock.json or npm-shrinkwrap.json to be present
           cvm install 9.0.0
-          cvm use 9.0.0          
+          cvm use 9.0.0
+          npm update -g
+          npm i -g native-run
       - name: Setup Cordova iOS platform
         script: |
             # ionic cordova platform remove ios --nosave
