@@ -82,7 +82,7 @@ workflows:
     publishing:
       app_store_connect:
         apple_id: pqcuong737@gmail.com # <- put your Apple Id here
-        password: Encrypted(tuej-awpl-tvwr-wubb)
+        password: Encrypted(Z0FBQUFBQmdjRTZUYW4tUlBmb2YxS1BObEc2UkUtUXh2X0xyZGRmdXEzbzd1c1pLQzlSX2d2cEFrTFFhNlZjY1BHUmhiV1lxRUVwbjhLNi1PLTczMjNBWE9nbnktZVdUSW1JMzVlX05OYkZ4SVdEcV9fNUQtRTA9)
         # <-- Put your App Specific Password. For more information visit: https://support.apple.com/en-us/HT204397
       email:
         recipients:
