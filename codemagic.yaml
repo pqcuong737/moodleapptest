@@ -38,7 +38,7 @@ workflows:
           cvm install 9.0.0
           cvm use 9.0.0          
       - name: Setup Cordova iOS platform
-          script: |
+        script: |
             ionic cordova platform remove ios --nosave
             ionic cordova platform add ios --confirm --no-interactive --noresources            
       - name: Cocoapods installation
