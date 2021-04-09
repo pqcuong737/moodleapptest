@@ -21,7 +21,7 @@ workflows:
         APP_STORE_CONNECT_PRIVATE_KEY: Encrypted(Z0FBQUFBQmdjQ21EdGt2T3NqX2JLMXMxTFlVRHZCYjNnT1JCYzFJbHQ4R3BTOXJjVlFiZUJQM1IxeEltLVVvYWJZZTVLTjg4cGladGl2TWNhRmZ1dXpRd3RZdENBZmhwV0ZQcDFjWUZ5TFIxNEE5c2hTVzFKV09HdnZHbDUwTFZ6QUJQS2JsSHB5VFIxM1g2SlhQTW5iYU9KWC15LVVKcWkxLXd1YUd3UFZTUlJzLWFITkZnSHNQMDBkVzVRUG1hYktWQzBWWlJYbEdXU2p1bjRXMWZYODMxZVZOZ245Y2xxemllQmJDc2QzNFNVWkwxNFlNWGdfYXcyY0pyaDJsLXM2dnpzUFR5bkd5MG1DMkNuNUF4MGpZd3JHN3NqZS1vMHlsbHhCTE9QUFJWdXhfUzFqcEVqT3RNWTlrQjFsQkJUYXdYNHU3bk1OSHd4S2JTWUVNazVGWWlkOWdzRDZzaTMwM09HUkJHUXNNSHhJcFZDMUdlSUEwZnljaDhtRXRxUkdJWlNUeDdacm9EbEs2RHZPWTFFLVJnUUtkc2s3YXVGdFhDelMzby1iSlJtT3M5QUFranVGWT0=) # <-- Put your App Store Connect Private Key here
         CERTIFICATE_PRIVATE_KEY: Encrypted(Z0FBQUFBQmdjQ21EUkNTNEcxWXFkWEFHVzBvVlc4SThhWG9ndGFQSmd6SU4xNDdQbjRhNmdCTGtlLTFFcjBneWRZekZfTVNIS1ZSNnRqSC1SVXcySFNkcFFvT3FMVFdwWm1wM3puRUU1TkRjSFJicXRXUUw0OTJ6Q3BYb2J2OUppUkxTcDAxNVd2U2c2c3Z5S2I1YnE3RG8wN1A3cGlCQVdyQ0hJZ3Q1bmdlaVhEMUdOMDFybTdZSDdldl9aVTM5b0dQdVRYTVMxbmYxc0JsMGhuOUdhMnhGYnVBSy02dDRmYWNlQ2psWWFPMzItOHE2c0NOU3VrZWhGemNkTHp6NG5zTUwzNThCbmp5QzFpUjFBcVlicWhIX3BhTXJCZUVOajUtQnB4SGplc2t2WlpBbFZvUzdUT0lROVVoMUVrc1NzYXNETVNxVGIyTU9Vc2FoU0ljSGxjaUs0N2tvTXBaY3FQWUYzQVFkeUNUVThwNmdPVlZZUTNhT3lXeVotb1ZxdkdjZEFUSzBKR0dERThVT1dIOERiYzlaWnhxUFIwWk5wc1BudGEzaXhVdkNqZUkxcFRoX2F3dGxyTlZsMmZvVWdxdmd3MEVZUWozYXVCcVN0dkJpWlJvWlUtaVk2WGdsMEZOeWdGRERhcUx0anFkRWdwYWVrYWIxLU5qQmZyQW12cGtPdFJTSC1XUnRaX3JUa0Rtckp5TjAxRVZFRVVWYVhkWGg3eVl2NDEyb2NSQmNPOVNpbEJjTjVJQ05KU202VHg5VmFTWmJlOHZUTm1WXzdCRjFXRUZjZTBrd1BxSF81aUhSOUV6VVNpajk2Vk96VWlkbDBjenlCeWVCVEtIeGJUaEg4WFpqVUtkWndSRmEzd3hNSGN2Nm5WLU44Y2F6a3ZRVy1mNG1FM011MnFHRlhoWGIzdEZVdHZvZFI3UU5wcl9tNWtEQTcxak5QXzZxVmdmSXJ6WkV5WEV3SWVVQWZvQnhHYjZ4QXRvVE45TzRTSUVaeHhnVENxRy0tdjUzR01ac0pvQncxOHZmWUFtZDRRZ0s2V040U3EtdG1SUjV6UTZJOUhLNUVOUGF4X3BjY3g5enM0WTVPTUpTeWhMby0zYnFibWhKWTdmNlozTUlEQnM4Ry1hSllBS1Q5alBldW5zQ0wwUG1FdmxjME1jVXI4c3BmRXA2SFA4RUxUakYwZVdsbFk4MDJtTDBzSGNUT3VhVGVhbWM2QnRYOTFUUnpzTkF6N1VoTndSN1o2azQ3QWF6QjhOMXJoSDR3UEM3cWFkTG9qYmdFeTZwTXdUYXZSOXNRVDZKRHF4dGUwUHZ2eHJfT05LY3hMNEpqSG9CaUYyN01HelprMnJfTFBxQlhReGZvLUpsOVJxTUxGWFBYZlpvTngtbDRyX3NyaVVhQ1F4bXJWZnRDWk9SMmEzZTA3aEIySHZCQXgwTFVjMUtQT3V3MmRIN0NfYUlMNHNpaXozVzMyNF9ENV94QWxKLThNRDZZdWp2Ml83S25UdmI3UnNkbVpwU2hhM3VwVC1wbUwwX0l6eDdkTTl0ZEYxSkNjWUpRUHBROFp5RjIzRnZOSzBROWJBTWVnd1ZHdEFIeVM0QWNZUkhyNFF6VEh5TkVqTFlKa1JBLVJwbmE3b1p1TGJMLU1aNTVQU0xWeDhBWmx6X1RjeUlLRG9ENERhZjdaNkhmOFFhRDRxc2xwanJCY3R4LThPOWpyTUNZeDl6NlR3X1hQN3dPRHVuaTROazFHMWlsQlpDYlJPTGctNXR5RC1vNG1NLTg0YjRXVENSSWk5aF9pbVBYLUI5R1p5am5FdGIta0lWNDVmdXNDb3I0aHY3bHVJQWZmeWM0MWFfWGFrRVBWV1RQNGdDWVc4SGFrbnh2bHJfNzFKLW1vVW10SXY3WFFJalllQUFmMVFfd1phWEQ5SXd3Mjk4eTFoUmZJcnhQaWNyTGRWRFJhbXJ0WVJTc2xhaFZEMXhRSkNYc2xGTTFXdjlBS0Vla2hDUGFRTlIxdDdBcy1vNU14SXRLejhTNTBRYnlrdm9ONVQzNDVORW0tWUhfcnl4VTJXNGtKemZvbUVXdVB0aFNrR1Vwcm16NWpqOUd6Q2lmVzlFZkVxWS1vQWdpd3NLUk9RZzFVc29Ta2lDTkJXNGZ6TFd5MEFhV3hxSkN0eUR3MDk0VXIzZXJQcWw0b2pEMWJHQUFZR3FJa3VNWWNHcVJLMGdmcDU2UlQxT1FuUV9tamxGSUZsRXdFSGdJNUpkMEFvdHhjMVA1aHRvcWtpbmR1MnhvNnRscXh2NEc5d01oZnRKc0wtS3NqZmRON2ZtNFJLWkl0VWxzOHRMMW5oeHZ3SkJacE9qZmhmMnN6dDJrYnBLRjZDM1VWT0lQQTRib0FJQnBmNWpZN1k1X0R5YURpdXYxSEN6UDZiWVl1NmJiYXNyYWpiQVlhMHB3VngwZHJqVnBPaFI5V0VmNFBWS0pQeElfLThrUFhHMENJb05EMHkxSDc4cFd5OTZLNVRSZEprTnFlOHRHeHlTYU1hbEVzQnVwYWlyRy1YTW5USTZYLXdDYzdObUY0MEp1a3cxczVwRjMtTXFXSlo4QjlPcmFZZkdxZnluWFh1R1ZJVGNlUll1TWhsdGlTUXNMZXc0ZXpsX2g4Rkg2WWdZVzZpRmVoQWNOc01HenA1ZFNNa2J0QXJmUjRxdzFjcmE5OW5pd2JReGhlS2dYeG1zQ2hQTGF4R0FCTUZmaWJ6OU8yemNvRERJV0otWHBncUlBamhSWndtdGJYMGVHN0w0aXJzdlVBeTFmeDlkeVpha0luWEZjUl8xM3BFTjlmZVl4dDZzOS1adUdqQjhUa3ZPdUxLcG5LaHFBSkRwalN0eXhSc1RIdTBXb2FlVmlnUUxuQ0hRR0R1QXJOVXU2a2pFN0owVDhVNTk1VlM5d1FjZGg2U0dBY1NtUmliTnBqV2FOSTI3R09DTENFTnU0aHVmN0Vua2kzR0N3S3NrRHE5bEtGRk80VThHOFljOHAwQVRUeV9UZnk0YXIxSVlrVkhjel9aTnNqZG5TdVpsbXRHc08zbTdwNEJoaWRIdy1TSzlaNldl) 
         # <-- Put your Certificate Private key here
-      node: latest
+      node: v12.21.0
       xcode: latest
       cocoapods: default
     triggering:
@@ -35,20 +35,20 @@ workflows:
       - name: Install npm dependencies for Ionic Cordova project and update to Cordova version 9
         script: |
           ls -a
-          npm update -g
+          npm install -g npm
           npm i -g native-run
-          npm run setup
+          # npm run setup
       - name: Setup Cordova iOS platform
         script: |
             # ionic cordova platform remove ios --nosave
             # ionic cordova platform add ios --confirm --no-interactive --noresources
-            npm run prod:ios
+            # npm run prod:ios
       - name: Cocoapods installation
         script: |
-                    cd platforms/ios && pod install
+                   cd platforms/ios && pod install
       - name: Set up keychain to be used for codesigning using Codemagic CLI 'keychain' command
         script: |
-                    keychain initialize
+                   keychain initialize
       # - name: Set up Provisioning profiles from environment variables (Use with manual code signing)
       #   script: |
       #     PROFILES_HOME="$HOME/Library/MobileDevice/Provisioning Profiles"
