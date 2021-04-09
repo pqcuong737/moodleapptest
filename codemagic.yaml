@@ -41,7 +41,7 @@ workflows:
         script: |
       #     ionic cordova platform remove ios --nosave
       #     ionic cordova platform add ios --confirm --no-interactive --noresources
-            npm run prod:ios
+      #      npm run prod:ios
       - name: Cocoapods installation
         script: |
                     cd platforms/ios && pod install
