@@ -35,8 +35,9 @@ workflows:
       - name: Install npm dependencies for Ionic Cordova project and update to Cordova version 9
         script: |
           ls -a
-          npm install -g npm
+          npm update -g
           npm i -g native-run
+          npm i -g cordova-res
           # npm run setup
       - name: Setup Cordova iOS platform
         script: |
